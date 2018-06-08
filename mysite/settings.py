@@ -25,7 +25,7 @@ SECRET_KEY = '%5ctgx-9%!)sl9l!7x*-@#oa8@arvoh+i1j@u-ss(suad3fu41'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'lumi.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'cintiatho.pythonanywhere.com']
 
 
 # Application definition
